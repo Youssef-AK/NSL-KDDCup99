@@ -25,6 +25,10 @@ Data Files
 
 **We Use KDDTrain+.TXT and KDDTest+.TXT**
 
+![KDDTrain1](https://user-images.githubusercontent.com/40705538/125210910-e5a04f80-e2a2-11eb-892f-395c9f9b1d1f.jpg)![KDDTest1](https://user-images.githubusercontent.com/40705538/125210926-fbae1000-e2a2-11eb-8572-93f6ea18d979.jpg)
+
+
+
 Improvements to the KDD'99 data set
 -----------------------------------
 The NSL-KDD data set has the following advantages over the original KDD data set:
