@@ -39,3 +39,5 @@ References
 [1] [M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set,” Submitted to Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), 2009](https://ieeexplore.ieee.org/document/5356528)
 
 [2] [J. McHugh, “Testing intrusion detection systems: a critique of the 1998 and 1999 darpa intrusion detection system evaluations as performed by lincoln laboratory,” ACM Transactions on Information and System Security, vol. 3, no. 4, pp. 262–294, 2000.](https://dl.acm.org/doi/abs/10.1145/382912.382923)
+
+[3] [Selection for efficient Intrusion Detection using Attribute Ratio](https://www.semanticscholar.org/paper/Selection-for-efficient-Intrusion-Detection-using-Chae-Choi/6adf0033a4428b80179e4a76b8f27ceea496d931)
