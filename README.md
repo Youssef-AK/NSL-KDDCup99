@@ -23,7 +23,7 @@ Data Files
 
 **KDDTest-21.TXT** - A subset of the KDDTest+.txt file which does not include records with difficulty level of 21 out of 21
 
-**We Use KDDTrain+.TXT and KDDTest+.TXT**
+**We will use KDDTrain+.TXT and KDDTest+.TXT**
 
 ![KDDTrain1](https://user-images.githubusercontent.com/40705538/125210910-e5a04f80-e2a2-11eb-892f-395c9f9b1d1f.jpg)![KDDTest1](https://user-images.githubusercontent.com/40705538/125210926-fbae1000-e2a2-11eb-8572-93f6ea18d979.jpg)
 
